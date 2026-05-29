@@ -1,4 +1,40 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=42B3F7&center=true&repeat=false&width=500&lines=echo+%22Welcome+to+my+profile%22" />
+</p>
+
+```c
+#include <stdio.h> 
+#include <string.h>
+
+void about_me() {
+    printf("\n=== UNLOCKED ===\n");
+    printf("Name: jnzachos\n");
+    printf("Info: 1st year CS student at the University of Athens\n");
+    printf("Interests: Security / Binary Exploitation / Operating Systems\n");
+    printf("================\n");
+}
+
+int main() {
+    char name[16];
+    printf("Who are you?\n");
+    gets(name);
+    printf("Never heard of %s\n", name);
+    return 0;
+}
+```
+---
+### 💻Languages:
+[![My Skills](https://skillicons.dev/icons?i=c,java,bash,python)](https://skillicons.dev)
+
+### 🧰Tools & Environments:
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,windows)](https://skillicons.dev)
+
+---
+### 📈Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jnzachos?cardType=github&theme=tokyonight&fontFamily=Fira%20Sans&preferLogin=false&Points.Commits=11.4&Points.CreatedRepositories=1.2&Points.ContributedTo=3.9)](https://git.io/awesome-stats-card)
+
+
+
 
 <!--
 **jnzachos/jnzachos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
