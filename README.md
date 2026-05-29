@@ -29,9 +29,6 @@ int main() {
 ### 🧰Tools & Environments:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,windows)](https://skillicons.dev)
 
----
-### 📈Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jnzachos?cardType=github&theme=tokyonight&fontFamily=Fira%20Sans&preferLogin=false&Points.Commits=11.4&Points.CreatedRepositories=1.2&Points.ContributedTo=3.9)](https://git.io/awesome-stats-card)
 
 
 
