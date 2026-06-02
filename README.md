@@ -23,10 +23,10 @@ int main() {
 }
 ```
 ---
-### 💻Languages:
+### 💻 Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,java,bash,python)](https://skillicons.dev)
 
-### 🧰Tools & Environments:
+### 🧰 Tools & Environments:
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git)](https://skillicons.dev)
 
 
