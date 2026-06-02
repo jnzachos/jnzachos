@@ -27,7 +27,7 @@ int main() {
 [![My Skills](https://skillicons.dev/icons?i=c,java,bash,python)](https://skillicons.dev)
 
 ### 🧰Tools & Environments:
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git)](https://skillicons.dev)
 
 
 
