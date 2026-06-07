@@ -10,7 +10,7 @@ void about_me() {
     printf("\n=== UNLOCKED ===\n");
     printf("Name: jnzachos\n");
     printf("Info: 1st year CS student at the University of Athens\n");
-    printf("Interests: Cybersecurity / Binary Exploitation / CTF / Operating Systems\n");
+    printf("Interests: Cybersecurity / Ethical Hacking / Binary Exploitation / CTF / Operating Systems\n");
     printf("================\n");
 }
 
