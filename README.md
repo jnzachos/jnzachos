@@ -24,7 +24,7 @@ int main() {
 ```
 ---
 ### 💻 Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,java,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,bash,python)](https://skillicons.dev)
 
 ### 🧰 Tools & Environments:
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git)](https://skillicons.dev)
